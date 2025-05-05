@@ -4,3 +4,6 @@
    Screen Shot of Gitlog Command
    
 Brief explanation of the changes made in each commit 
+change 1: Added "This is assignment 1"
+change 2:Added "Third commit"
+change 3: Added "fourth commit"
