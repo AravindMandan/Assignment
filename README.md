@@ -3,3 +3,4 @@
 
    Screen Shot of Gitlog Command
    
+Brief explanation of the changes made in each commit 
